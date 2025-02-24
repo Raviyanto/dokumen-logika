@@ -1,14 +1,14 @@
 {
-  "name": "My New Hugo Site",
-  "short_name": "My New Hugo Site",
-  "start_url": "/",
-  "scope": "/",
+  "name": "Filsafat Perbatasan & Logika Konduktif",
+  "short_name": "Filsafat Perbatasan & Logika Konduktif",
+  "start_url": "/dokumen-logika/",
+  "scope": "/dokumen-logika/",
   "display": "standalone",
   "background_color": "#000000",
   "theme_color": "#000000",
   "icons": [
     {
-      "src": "/favicon.svg",
+      "src": "/dokumen-logika/favicon.svg",
       "sizes": "512x512"
     }
   ]
