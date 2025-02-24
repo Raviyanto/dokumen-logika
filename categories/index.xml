@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Filsafat Perbatasan &amp; Logika Konduktif</title>
-    <link>https://raviyanto.github.io/dokumen-logika/categories/</link>
+    <link>http://localhost:1313/dokumen-logika/categories/</link>
     <description>Recent content in Categories on Filsafat Perbatasan &amp; Logika Konduktif</description>
     <generator>Hugo</generator>
     <language>id</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://raviyanto.github.io/dokumen-logika/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/dokumen-logika/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://raviyanto.github.io/dokumen-logika/categories/development/</link>
+      <link>http://localhost:1313/dokumen-logika/categories/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://raviyanto.github.io/dokumen-logika/categories/development/</guid>
+      <guid>http://localhost:1313/dokumen-logika/categories/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>https://raviyanto.github.io/dokumen-logika/categories/golang/</link>
+      <link>http://localhost:1313/dokumen-logika/categories/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://raviyanto.github.io/dokumen-logika/categories/golang/</guid>
+      <guid>http://localhost:1313/dokumen-logika/categories/golang/</guid>
       <description></description>
     </item>
   </channel>

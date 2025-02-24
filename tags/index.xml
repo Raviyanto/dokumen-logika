@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Filsafat Perbatasan &amp; Logika Konduktif</title>
-    <link>https://raviyanto.github.io/dokumen-logika/tags/</link>
+    <link>http://localhost:1313/dokumen-logika/tags/</link>
     <description>Recent content in Tags on Filsafat Perbatasan &amp; Logika Konduktif</description>
     <generator>Hugo</generator>
     <language>id</language>
     <lastBuildDate>Wed, 02 Apr 2014 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://raviyanto.github.io/dokumen-logika/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/dokumen-logika/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Development</title>
-      <link>https://raviyanto.github.io/dokumen-logika/tags/development/</link>
+      <link>http://localhost:1313/dokumen-logika/tags/development/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://raviyanto.github.io/dokumen-logika/tags/development/</guid>
+      <guid>http://localhost:1313/dokumen-logika/tags/development/</guid>
       <description></description>
     </item>
     <item>
       <title>Go</title>
-      <link>https://raviyanto.github.io/dokumen-logika/tags/go/</link>
+      <link>http://localhost:1313/dokumen-logika/tags/go/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://raviyanto.github.io/dokumen-logika/tags/go/</guid>
+      <guid>http://localhost:1313/dokumen-logika/tags/go/</guid>
       <description></description>
     </item>
     <item>
       <title>Golang</title>
-      <link>https://raviyanto.github.io/dokumen-logika/tags/golang/</link>
+      <link>http://localhost:1313/dokumen-logika/tags/golang/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://raviyanto.github.io/dokumen-logika/tags/golang/</guid>
+      <guid>http://localhost:1313/dokumen-logika/tags/golang/</guid>
       <description></description>
     </item>
     <item>
       <title>Hugo</title>
-      <link>https://raviyanto.github.io/dokumen-logika/tags/hugo/</link>
+      <link>http://localhost:1313/dokumen-logika/tags/hugo/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://raviyanto.github.io/dokumen-logika/tags/hugo/</guid>
+      <guid>http://localhost:1313/dokumen-logika/tags/hugo/</guid>
       <description></description>
     </item>
     <item>
       <title>Templates</title>
-      <link>https://raviyanto.github.io/dokumen-logika/tags/templates/</link>
+      <link>http://localhost:1313/dokumen-logika/tags/templates/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://raviyanto.github.io/dokumen-logika/tags/templates/</guid>
+      <guid>http://localhost:1313/dokumen-logika/tags/templates/</guid>
       <description></description>
     </item>
     <item>
       <title>Themes</title>
-      <link>https://raviyanto.github.io/dokumen-logika/tags/themes/</link>
+      <link>http://localhost:1313/dokumen-logika/tags/themes/</link>
       <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      <guid>https://raviyanto.github.io/dokumen-logika/tags/themes/</guid>
+      <guid>http://localhost:1313/dokumen-logika/tags/themes/</guid>
       <description></description>
     </item>
   </channel>
